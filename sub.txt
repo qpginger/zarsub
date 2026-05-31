@@ -1,1 +1,1 @@
-
+vless://08dad8a6-8a6c-4424-9d63-62f3a9bf7f4f@quiet-sea-4d37.ginger6655.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=quiet-sea-4d37.ginger6655.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=quiet-sea-4d37.ginger6655.workers.dev#Ginger
