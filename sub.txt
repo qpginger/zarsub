@@ -1,1 +1,3 @@
 vless://08dad8a6-8a6c-4424-9d63-62f3a9bf7f4f@quiet-sea-4d37.ginger6655.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=quiet-sea-4d37.ginger6655.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=quiet-sea-4d37.ginger6655.workers.dev#Ginger
+vless://a5f3e38d-43d4-4c25-b17d-1cba6d384dd3@tcp.eu-central-1.clawcloudrun.com:38635?security=reality&encryption=none&pbk=2iibbfFgwVSXb0ODQxTL1s50OuTGz45vYjHPhXZAvQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com&sid=a5cd07#Vless
+vless://a5f3e38d-43d4-4c25-b17d-1cba6d384dd3@tcp.eu-central-1.clawcloudrun.com:38635?security=reality&encryption=none&pbk=2iibbfFgwVSXb0ODQxTL1s50OuTGz45vYjHPhXZAvQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com&sid=a5cd07#Vless%20-%20Reality
