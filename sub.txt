@@ -43,3 +43,16 @@ trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ec
 trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20D76
 
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20D79
+
+
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20FC02E5
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg%3Fed&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20B0E415
+vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=firefox&spx=%2Fd1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#%F0%9F%87%A9%F0%9F%87%AA%20%7C%204FEDD5
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?security=tls&obfs=salamander&obfs-password=xdqynq1idjgm8x4p&insecure=0&sni=www.ser7er.wolfs2.ir#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20988876
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20F21CD4
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@cdn-se.alohaapp.uk:443?security=reality&encryption=none&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=b9f8f9772217538f#%F0%9F%87%B8%F0%9F%87%AA%20%7C%20908FBE
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#%F0%9F%87%B5%F0%9F%87%B1%20%7C%209EC9F5
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20D8F208
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20%7C%2027C1AA
+socks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%87%A8%F0%9F%87%AD%7C%20B84571
+vless://f4685d27-73e3-4588-9622-add50b84046a@176.109.108.83:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=ios&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%F0%9F%87%B7%F0%9F%87%BA%20%7C%202BED40
