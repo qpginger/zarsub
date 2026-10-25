@@ -1,4 +1,4 @@
-vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%F0%9F%94%B9%EF%B8%8FUnlimited%F0%9F%94%B9%EF%B8%8F
+vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%F0%9F%94%B9%EF%B8%8FUnlimited%20%7C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%94%B9%EF%B8%8F
 vless://2e122b1c-63e6-48dc-a706-baeb023d1ce9@subs3.ozen.ir:2083?path=%2Fozensubs3%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=subs3.ozen.ir#%22%D9%87%D8%B1%20%D8%B1%D9%88%D8%B2%20%D8%B3%D8%A7%D8%A8%20%D8%B1%D8%A7%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%22
 
 vless://50414e45-4c5f-5a45-5553-c8f80a5e2d3f@45.91.92.104:443?path=%2Fstream%2FPANEL_ZEUS%2Fc8f80a5e2d3f%2Floc-2&security=tls&encryption=none&insecure=0&host=tizsnheeuf7s.a5zgy4egu2ys.workers.dev&type=ws&allowInsecure=0&sni=tizsnheeuf7s.a5zgy4egu2ys.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20%7C%2001
