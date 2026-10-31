@@ -5,64 +5,48 @@ vless://50414e45-4c5f-5a45-5553-93deaa20352b@[2606:4700:3032::6815:2a64]:443?pat
 
 vless://50414e45-4c5f-5a45-5553-93deaa20352b@[2606:4700:3036::ac43:aa0b]:443?path=%2Fstream%2FPANEL_ZEUS%2F93deaa20352b%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%2002%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-106992154773@[2606:4700:3032::6815:3aaf]:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2001%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-106992154773@[2606:4700:3032::6815:3aaf]:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2003%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-106992154773@[2606:4700:3034::6815:43cf]:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2002%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-106992154773@[2606:4700:3034::6815:43cf]:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2004%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@[2606:4700:3032::ac43:8101]:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2001%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@[2606:4700:3033::ac43:9231]:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2005%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@[2606:4700:3037::6815:3dba]:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2002%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@[2606:4700:3034::6815:f7a]:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2006%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@[2606:4700:3033::ac43:9231]:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2001%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@[2606:4700:3032::ac43:8101]:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2007%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@[2606:4700:3034::6815:f7a]:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2002%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@[2606:4700:3037::6815:3dba]:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2008%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-6f063b03ee41@[2606:4700:3033::ac43:b11f]:443?path=%2Fstream%2FPANEL_ZEUS%2F6f063b03ee41%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%2001%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@[2606:4700:3035::6815:1033]:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2009%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-6f063b03ee41@[2606:4700:3036::6815:58c3]:443?path=%2Fstream%2FPANEL_ZEUS%2F6f063b03ee41%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%2002%20%7C%20Ipv6
+vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@[2606:4700:3032::6815:504]:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2010%20%7C%20Ipv6
 
-vless://50414e45-4c5f-5a45-5553-93deaa20352b@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2F93deaa20352b%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%2003%20%7C%20Patt
+vless://50414e45-4c5f-5a45-5553-93deaa20352b@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2F93deaa20352b%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%2011%20%7C%20Patt
 
-vless://50414e45-4c5f-5a45-5553-106992154773@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2003%20%7C%20Patt
+vless://50414e45-4c5f-5a45-5553-106992154773@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2012%20%7C%20Patt
 
-vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2003%20%7C%20Patt
+vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2013%20%7C%20Patt
 
-vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2003%20%7C%20Patt
+vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2014%20%7C%20Patt
 
-vless://50414e45-4c5f-5a45-5553-6f063b03ee41@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2F6f063b03ee41%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%2003%20%7C%20Patt
+vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@[2a06:98c1:3101::6812:202f]:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2015%20%7C%20Patt
 
-vless://50414e45-4c5f-5a45-5553-93deaa20352b@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F93deaa20352b%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%2004%20%7C%20Ginger
+vless://50414e45-4c5f-5a45-5553-93deaa20352b@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F93deaa20352b%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%2016%20%7C%20Ginger
 
-vless://50414e45-4c5f-5a45-5553-106992154773@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2004%20%7C%20Ginger
+vless://50414e45-4c5f-5a45-5553-106992154773@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2017%20%7C%20Ginger
 
-vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2004%20%7C%20Ginger
+vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2018%20%7C%20Ginger
 
-vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@1com.ir:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2004%20%7C%20Ginger
+vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2019%20%7C%20Ginger
 
-vless://50414e45-4c5f-5a45-5553-6f063b03ee41@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F6f063b03ee41%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%2004%20%7C%20Ginger
+vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@fazi.qpginger.ir:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2020%20%7C%20Ginger
 
-vless://50414e45-4c5f-5a45-5553-93deaa20352b@arabic-translation.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F93deaa20352b%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%2005%20%7C%20Domain
+vless://50414e45-4c5f-5a45-5553-93deaa20352b@kishstars.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F93deaa20352b%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%2021%20%7C%20Domain
 
-vless://50414e45-4c5f-5a45-5553-106992154773@decorihome.com:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2005%20%7C%20Domain
+vless://50414e45-4c5f-5a45-5553-106992154773@kishstars.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F106992154773%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%2022%20%7C%20Domain
 
-vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@test.chiztour.ir:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2005%20%7C%20Domain
+vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@kishstars.ir:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2023%20%7C%20Domain
 
-vless://50414e45-4c5f-5a45-5553-df6e0e8eb3ac@ipify.org:443?path=%2Fstream%2FPANEL_ZEUS%2Fdf6e0e8eb3ac%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%2005%20%7C%20Domain
+vless://50414e45-4c5f-5a45-5553-fc988d9b87fa@kishstars.ir:443?path=%2Fstream%2FPANEL_ZEUS%2Ffc988d9b87fa%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%2024%20%7C%20Domain
 
-vless://50414e45-4c5f-5a45-5553-6f063b03ee41@home.atnsika.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F6f063b03ee41%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%2005%20%7C%20Domain
-
-vless://50414e45-4c5f-5a45-5553-76896541902a@fazi.qpginger.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F76896541902a%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A6%F0%9F%87%B1%2001%20%7C%20Youtube
-
-vless://50414e45-4c5f-5a45-5553-76896541902a@[2a06:98c1:3101::6812:202f]:443?path=%2Fstream%2FPANEL_ZEUS%2F76896541902a%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A6%F0%9F%87%B1%2002%20%7C%20Youtube
-
-vless://50414e45-4c5f-5a45-5553-76896541902a@[2606:4700:3031::ac43:84aa]:443?path=%2Fstream%2FPANEL_ZEUS%2F76896541902a%2Floc-0&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%87%A6%F0%9F%87%B1%2003%20%7C%20Youtube
-
-vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@[2606:4700:3035::6815:1033]:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2001%20%7C%20Ipv6
-
-vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@[2606:4700:3032::6815:504]:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2002%20%7C%20Ipv6
-
-vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@[2a06:98c1:3101::6812:202f]:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2003%20%7C%20Patt
-
-vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@fazi.qpginger.ir:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2004%20%7C%20Ginger
-
-vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@kishstars.ir:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2005%20%7C%20Domain
+vless://50414e45-4c5f-5a45-5553-ff3c6bd3617e@kishstars.ir:2096?path=%2Fstream%2FPANEL_ZEUS%2Fff3c6bd3617e&security=tls&encryption=none&insecure=0&host=lnzalgepu6os.7lzq1bebuwus.workers.dev&type=ws&allowInsecure=0&sni=lnzalgepu6os.7lzq1bebuwus.workers.dev#%F0%9F%8F%81%2025%20%7C%20Domain
